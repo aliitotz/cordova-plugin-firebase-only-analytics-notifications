@@ -1,4 +1,5 @@
 android {
+  compileSdkVersion 27
   defaultConfig {
     multiDexEnabled true
   }
