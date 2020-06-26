@@ -38,7 +38,7 @@ dependencies {
   implementation 'com.google.android.gms:play-services-gass:19.2.0'
   implementation 'com.google.android.gms:play-services-ads:19.2.0'
   implementation 'com.google.android.gms:play-services-measurement-api:17.4.3'
-  implementation 'com.google.android.gms:play-services-basement@[17.3.0]'
+  implementation 'com.google.android.gms:play-services-measurement-sdk:17.4.3'
   implementation('com.crashlytics.sdk.android:crashlytics:2.10.1@aar') {
     transitive = true
   }
