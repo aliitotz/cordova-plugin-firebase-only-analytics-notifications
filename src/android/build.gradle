@@ -35,6 +35,8 @@ dependencies {
   implementation 'com.google.firebase:firebase-core:16.0.9'
   implementation 'com.google.android.gms:play-services-ads-lite:19.2.0'
   implementation 'com.google.android.gms:play-services-basement:11.0.4'
+  implementation 'com.google.android.gms:play-services-gass:19.2.0'
+  implementation 'com.google.android.gms:play-services-basement@[17.3.0]'
   implementation('com.crashlytics.sdk.android:crashlytics:2.10.1@aar') {
     transitive = true
   }
