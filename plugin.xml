@@ -91,6 +91,8 @@
     <framework src="com.google.firebase:firebase-perf:17.0.2" />
     <framework src="com.google.firebase:firebase-dynamic-links:17.0.0" />
     <framework src="com.google.firebase:firebase-iid:18.0.0" />
+    <framework src="com.google.android.gms:play-services-ads-lite:16.2.0" />
+    
   </platform>
 
   <platform name="ios">
